@@ -1,3 +1,4 @@
+require 'pry'
 # Write your code below game_hash
 def game_hash
   {
@@ -126,4 +127,4 @@ def game_hash
   }
 end
 
-# Write code here
+binding.pry
